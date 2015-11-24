@@ -1,6 +1,6 @@
 add 1 in local
-<<<<<<< HEAD
-add 3 in local
-=======
 add 2 in remote
->>>>>>> origin/master
+add 3 in local
+
+
+
